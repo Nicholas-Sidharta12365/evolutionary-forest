@@ -1,5 +1,4 @@
 # Implementation of "An Evolutionary Forest for Regression"
-### Nicholas Sidharta
 
 ### Resources
 #### [Paper Reference](./An_Evolutionary_Forest_for_Regression.pdf)
